@@ -1,0 +1,7 @@
+node_modules
+dist
+examples/users/dist
+.vscode
+coverage
+.rpt2_cache
+docs

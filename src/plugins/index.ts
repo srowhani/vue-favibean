@@ -1,0 +1,1 @@
+export { FavibeanPlugin } from './favibean';
